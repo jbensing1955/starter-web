@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 Double ## is for Second Level Heading
 
 ## How To Contribute
+
+This text will be commited, but not pushed.
