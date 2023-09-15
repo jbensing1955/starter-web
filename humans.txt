@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    nancy J bensing
 
 # TECHNOLOGY COLOPHON
 
