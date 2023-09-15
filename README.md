@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Single # is for First Level Heading
+Single # is for First Level Heading Adding a line for rebasing example.
 
 ## Introduction
 
