@@ -17,6 +17,7 @@ This line is in the Working Directory only.
 ## How To Contribute
 
 This text will be commited, but not pushed.
+Please fork this repositoryand then issue Pull Requests for review
 
 ### Copyright
 
