@@ -1,1 +1,3 @@
 .junkFile.txt
+log/
+*.orig
