@@ -17,3 +17,7 @@ This line is in the Working Directory only.
 ## How To Contribute
 
 This text will be commited, but not pushed.
+
+### Copyright
+
+2023 Bensing-Kennels
