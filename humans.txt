@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jim Bensing  jim@bensing.com
 
 # THANKS
 
