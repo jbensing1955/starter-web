@@ -21,4 +21,4 @@ Please fork this repositoryand then issue Pull Requests for review
 
 ### Copyright
 
-2023 Bensing-Kennels
+2023 Bensing-Kennels. All rights reserved.
