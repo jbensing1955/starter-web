@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Single # is for First Level Heading Adding a line for rebasing example, then more changes from myfeature branch too.
+Updating for emergency fix after stashing.
 
 ## Introduction
 
